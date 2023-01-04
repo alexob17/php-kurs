@@ -1,0 +1,48 @@
+KEYWORDS
+--------------------------------------------
+abstract - and - as 
+break - callable - case 
+catch - class - clone 
+const - continue - declare
+default - do - echo
+else - elseif - empty() 
+enddeclare - endifor - endforeach
+endif - endswitch - endwhile 
+extends - final - fn - for 
+foreach - function - global 
+goto - if - implements 
+include - include_once - insteadof 
+instanceof - intrface - isset()
+list() - namespace - new 
+or - print - private
+protected - public - require 
+require_once - return - static
+switch - throw - trait
+try - unset - use 
+var - while - xor 
+yield - yield_from - __halt_compiler()
+array() - die() - evail()
+exit() - unset()
+
+---------------------------------------------
+from 7.2 PHP RESERVERD WORDS
+
+int - true - bool 
+null - float - false 
+string - void - terable
+object 
+
+SOFT RESERVED WORDS
+
+resource - mixed - numeric 
+----------------------------------------------
+PREDEFINED CONSTANTS:
+
+
+PHP_VERSION (string)
+
+PHP_MAJOR_VERSION (integer)
+
+PHP_MINOR_VERSION (integer)
+
+PHP_RELEASE_VERSION (integer)
